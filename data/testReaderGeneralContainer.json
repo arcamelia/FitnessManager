@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "name": "Legs",
+      "workouts": [
+        {
+          "name": "Leg day",
+          "category": "Legs",
+          "exercises": [
+            {
+              "name": "squats",
+              "time": 30
+            },
+            {
+              "name": "wall sit",
+              "time": 60
+            },
+            {
+              "name": "lunges",
+              "time": 40
+            }
+          ]
+        },
+        {
+          "name": "Death",
+          "category": "Legs",
+          "exercises": [
+            {
+              "name": "wall sit",
+              "time": 600
+            },
+            {
+              "name": "stretch",
+              "time": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cardio",
+      "workouts": []
+    }
+  ]
+}

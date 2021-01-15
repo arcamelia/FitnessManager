@@ -1,0 +1,38 @@
+{"categories": [
+    {
+        "workouts": [{
+            "exercises": [
+                {
+                    "name": "jumping jacks",
+                    "time": 12000
+                },
+                {
+                    "name": "pogo sticking",
+                    "time": 800
+                },
+                {
+                    "name": "jumping over top of cat",
+                    "time": 120
+                }
+            ],
+            "name": "cool cardio"
+        }],
+        "name": "Cardio"
+    },
+    {
+        "workouts": [],
+        "name": "Core"
+    },
+    {
+        "workouts": [],
+        "name": "Legs"
+    },
+    {
+        "workouts": [],
+        "name": "Arms/shoulders"
+    },
+    {
+        "workouts": [],
+        "name": "Back"
+    }
+]}

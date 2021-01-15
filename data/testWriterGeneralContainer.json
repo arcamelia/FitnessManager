@@ -1,0 +1,37 @@
+{"categories": [
+    {
+        "workouts": [
+            {
+                "exercises": [
+                    {
+                        "name": "side plank R",
+                        "time": 30
+                    },
+                    {
+                        "name": "side plank L",
+                        "time": 30
+                    },
+                    {
+                        "name": "hand plank",
+                        "time": 60
+                    }
+                ],
+                "name": "Lots of planking",
+                "category": "Core"
+            },
+            {
+                "exercises": [{
+                    "name": "situps",
+                    "time": 200
+                }],
+                "name": "200 situps",
+                "category": "Core"
+            }
+        ],
+        "name": "Core"
+    },
+    {
+        "workouts": [],
+        "name": "Legs"
+    }
+]}
